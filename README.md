@@ -36,4 +36,6 @@ const urlBackend = 'url du backend';
 export { urlBackend };
 ```
 ## Demo
-
+<img src="https://github.com/loraille/recovery-password/blob/1848ba0b75bbead29c40246f739c07812cc36a07/frontend/pass-recovery%20(1).jpg" alt="page1" width="150">
+<img src="https://github.com/loraille/recovery-password/blob/1848ba0b75bbead29c40246f739c07812cc36a07/frontend/pass-recovery%20(2).jpg" alt="page2" width="150">
+<img src="https://github.com/loraille/recovery-password/blob/1848ba0b75bbead29c40246f739c07812cc36a07/frontend/pass-recovery%20(3).jpg" alt="page2" width="150">
